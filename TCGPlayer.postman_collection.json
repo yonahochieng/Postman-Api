@@ -2024,7 +2024,7 @@
 		{
 			"name": "Add Order Tracking Number",
 			"request": {
-				"url": "http://api.tcgplayer.com/{{version}}/stores/221530c9/orders/00828-07F42A-5E1A7/tracking",
+				"url": "http://api.tcgplayer.com/stores/221530c9/orders/00828-07F42A-5E1A7/tracking",
 				"method": "POST",
 				"header": [
 					{
